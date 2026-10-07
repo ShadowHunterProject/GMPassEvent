@@ -1,0 +1,83 @@
+# Định dạng thời gian hết hạn (Năm-Tháng-Ngày Giờ:Phút:Giây)
+expire-time: "2026-09-13 12:00:00"
+
+# Cấu hình tự động thông báo
+broadcast:
+  enabled: true
+  interval-minutes: 5
+  click-text: "&a&l[BẤM VÀO ĐÂY]"
+  hover-text: "&eNhấp chuột để mở Cửa hàng ngay!"
+  messages:
+    - "&e[!] &fThương nhân lang thang đang bán Gói quà giới hạn!"
+    - "&e[!] &fNhanh tay %click% &fđể xem chi tiết trước khi hết giờ!"
+
+# Danh sách lệnh phụ (aliases) có thể dùng để mở cửa hàng này
+aliases:
+  - "goiqua"
+  - "shopthuongnhan"
+
+title: "&8Thương nhân thần bí"
+layout:
+  - "xxxxxxxxx"
+  - "x   1   x"
+  - "xxxxtxxxx"
+
+items:
+  "x":
+    material: BLACK_STAINED_GLASS_PANE
+    name: "&7"
+  "t":
+    material: CLOCK
+    name: "&a&l⏳ THỜI GIAN CÒN LẠI ⏳"
+    lore:
+      - "&7Chỉ còn: &c%time%"
+      - "&eNhanh tay mua ngay kẻo lỡ!"
+  "1":
+    material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTI1NzViYzk0NzY0OGI3ZmU2OGYxYjYyM2ZlYjdmNzcyODZmOTZhMTc5ODk1ZDcyZDI3MThmOTRiODljNjMifX19
+    name: "&e&l⋨⋨&kk&r &e&lĐỘC &kk&r&e&l⋩⋩"
+    price: "1000-1500"
+    stock: 3
+    item_flags:
+      - HIDE_ATTRIBUTES
+    lore:
+      - "&8&m                                     "
+      - " &f&lTHÔNG TIN:"
+      - "  &a✧ &7Giá: &e%price% &7Points"
+      - "  &a✧ &7Kho: &eCòn %stock% chiếc"
+      - "  &a✧ &7Cấp độ: &eV1 &7/ &eV2"
+      - "  &a✧ &7Loại: &eHệ Sát Thủ"
+      - "  &a✧ &7Độ hiếm: &e☬&lThần Thoại&e☬"
+      - ""
+      - " &2[&a&l ☣ &2&lBẪY ĐỘC (kỹ năng 1) &a&l☣ &2]"
+      - " &f&lMÔ TẢ:"
+      - "  &7▪ Triệu hồi 1 dãy độc về phía trước"
+      - ""
+      - " &f&lCHỈ SỐ:"
+      - "  &a⚡ &7Cooldown: &e9s"
+      - "  &a✦ &7Mastery: &d150"
+      - "  &a⚔ &7Sát thương: &c160/hit"
+      - ""
+      - " &2[&a&l ☣ &2&lDỊCH ĐỘC (kỹ năng 2) &a&l☣ &2]"
+      - " &f&lMÔ TẢ:"
+      - "  &7▪ Bắn ra những chất dịch độc chậm và gây sát thương"
+      - ""
+      - " &f&lCHỈ SỐ:"
+      - "  &a⚡ &7Cooldown: &e12s"
+      - "  &a✦ &7Mastery: &d250"
+      - "  &a⚔ &7Sát thương: &c220"
+      - ""
+      - " &2[&a&l ☣ &2&lVÙNG ĐỘC (kỹ năng 3) &a&l☣ &2]"
+      - " &f&lMÔ TẢ:"
+      - "  &7▪ Tạo ra 1 vùng độc gây chậm và rút máu nhanh"
+      - ""
+      - " &f&lCHỈ SỐ:"
+      - "  &a⚡ &7Cooldown: &e18s"
+      - "  &a✦ &7Mastery: &d350"
+      - "  &a⚔ &7Sát thương: &c300"
+      - "&8&m                                     "
+      - ""
+      - "&7Giá: &a1k2 Xu"
+      - "&eClick để sở hữu vĩnh viễn ngay!"
+    commands:
+      - "[console] lp user %player% permission set kynang.poison true"
+      #- "[player] me vừa mua bộ kỹ năng ĐỘC!"

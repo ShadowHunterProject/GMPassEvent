@@ -1,0 +1,14 @@
+name: GMPassEvent
+version: '${project.version}'
+main: com.gmpass.event.GMPassEvent
+api-version: '1.21'
+depend: [FancyHolograms, HeadDatabase, PlayerPoints]
+softdepend: [GMCore]
+commands:
+  gmpassevent:
+    description: Lệnh chính của plugin GMPassEvent
+    aliases: [gme]
+    permission: gmpass.admin
+  goiqua:
+    description: Mở cửa hàng mua gói quà
+    aliases: [gmeshop]

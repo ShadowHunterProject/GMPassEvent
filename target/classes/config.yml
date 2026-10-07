@@ -1,0 +1,27 @@
+# Cấu hình GMPassEvent
+
+events:
+  gamepass_npc:
+    location: "world,0.5,100,0.5" # X, Y, Z
+    head-base64: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Y1MDQxZGI4OWFmYzhlMTNhZjEwMDFkOTJkZDY2YjNmMzliMDdjOWQwYWM4OTIxOTRjYTdhMmQ3MDVlMzI2ZiJ9fX0="
+    show-radius: 10 # Chỉ hiện khi có người chơi trong bán kính 10 block
+
+    # --- Tùy chỉnh vị trí ---
+    hologram-offset-y: 1.5 # Chữ nổi cách vị trí gốc 1.8 block
+    head-offset-y: 0.5 # Đầu cách vị trí gốc 0.5 block
+    bobbing-amplitude: 0.4 # Độ cao nhấp nhô của đầu (càng to thì đầu bay lên xuống càng dài, mặc định cũ là 0.15)
+
+    # --- Hiệu ứng ---
+    particle: "SQUID_INK" # Dùng nếu không điền mythic-skill
+    mythic-skill: "" # Bỏ trống để dùng particle thường. Điền tên skill MM vào đây (vd: "BlackHole")
+    mythic-skill-interval: 40 # Mỗi 40 tick (2 giây) gọi skill 1 lần
+
+    click-commands:
+      - "msg %player% &aĐang mở menu GamePass..."
+      - "[player] goiqua"
+      - "[console] give %player% diamond 1"
+    hologram-lines:
+      - "<gradient:#b300ff:#4B0082><b>☠ SỔ THỢ SĂN ☠</b></gradient>"
+      - "<gradient:#ff0040:#8a0022><b>♦ HẮC ÁM GAMEPASS ♦</b></gradient>"
+      - "<gray>➻ <white>Nhấn <gold><b>Chuột Phải</b> <white>để xem phần thưởng"
+      - "<gray>➻ <white>Hoặc gõ lệnh <aqua><b>/pass</b> <white>để mở menu"

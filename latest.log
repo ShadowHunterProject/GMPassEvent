@@ -1,0 +1,1463 @@
+[05:01:52] [Datafixer Bootstrap/INFO]: 243 Datafixer optimizations took 981 milliseconds
+[05:02:00] [main/WARN]: Unrecognized user type: offline
+[05:02:01] [Render thread/INFO]: Environment: Environment[sessionHost=https://account.ely.by/api/authlib-injector/sessionserver, servicesHost=https://account.ely.by/api/mojang/services, name=ELY]
+[05:02:01] [Render thread/INFO]: Setting user: nguyendannnn
+[05:02:01] [Render thread/INFO]: Backend library: LWJGL version 3.3.3+5
+[05:02:05] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[05:02:05] [Worker-Main-7/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:02:07] [Worker-Main-7/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:02:11] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:02:11] [Render thread/INFO]: Sound engine started
+[05:02:11] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:02:11] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:02:19] [Render thread/INFO]: Connecting to 185.207.166.22, 25022
+[05:02:26] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:27] [Render thread/INFO]: [System] [CHAT] 
+[05:02:27] [Render thread/INFO]: [System] [CHAT]                         ≫ TURTLE SERVER ≪
+[05:02:27] [Render thread/INFO]: [System] [CHAT]                          mc.minerua.com
+[05:02:27] [Render thread/INFO]: [System] [CHAT] 
+[05:02:27] [Render thread/INFO]: [System] [CHAT]   > Welcome nguyendannnn
+[05:02:27] [Render thread/INFO]: [System] [CHAT] 
+[05:02:27] [Render thread/INFO]: [System] [CHAT]   > Website www.minerua.com
+[05:02:27] [Render thread/INFO]: [System] [CHAT]   > Discord https://discord.com/invite/minerua
+[05:02:27] [Render thread/INFO]: [System] [CHAT] Welcome, nguyendannnn!
+[05:02:27] [Render thread/INFO]: [System] [CHAT] Type /help for a list of commands.
+[05:02:27] [Render thread/INFO]: [System] [CHAT] Type /list to see who else is online.
+[05:02:27] [Render thread/INFO]: [System] [CHAT] Players online: 1 - World time: 6:00 AM
+[05:02:27] [Render thread/INFO]: [System] [CHAT] Bạn không có thư mới.
+[05:02:27] [Render thread/INFO]: [System] [CHAT] (FAWE) A new release for FastAsyncWorldEdit is available: 2.15.4. You are currently on 2.15.2. Download from Modrinth or Hangar.
+[05:02:27] [Render thread/INFO]: [System] [CHAT] [TOP 1] 👑 Hoàng Đế Bóng Tối 👑 nguyendannnn đã giáng thế!
+[05:02:27] [Render thread/INFO]: [System] [CHAT] [ViaVersion] There is a newer plugin version available: 5.11.0, you're on: 5.10.0
+[05:02:27] [Render thread/INFO]: Loaded 293 advancements
+[05:02:28] [Render thread/WARN]: Requested creation of existing team 'npc-§1§e§2§a§1§7§9§0'
+[05:02:28] [Render thread/WARN]: Requested creation of existing team 'npc-§c§8§4§5§4§0§a§m'
+[05:02:28] [Render thread/WARN]: Requested creation of existing team 'npc-§n§c§3§r§8§6§6§8'
+[05:02:28] [Render thread/WARN]: Requested creation of existing team 'npc-§6§0§c§e§7§7§l§8'
+[05:02:28] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:28] [Render thread/INFO]: [System] [CHAT] Trao Đổi »  Có phiên bản mới của plugin! (hiện tại: 1.25.3 | mới nhất: 1.27.1)
+[05:02:28] [Render thread/INFO]: [System] [CHAT] Chợ Đen »  Đã có phiên bản mới của AxAuctions! (hiện tại: 2.3.0 | mới nhất: 2.7.8)
+[05:02:28] [Render thread/INFO]: [System] [CHAT] Túi Đồ »  Đã có phiên bản mới của AxVaults! (hiện tại: 2.15.1 | mới nhất: 2.15.3)
+[05:02:30] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:31] [Download-2/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\ced33dbe-3150-3cde-ade9-6485caf9dc0f\92d134fea8472ee387606156412496e3c4d1909a not found or had mismatched hash
+[05:02:32] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:34] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:35] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000000/ced33dbe-3150-3cde-ade9-6485caf9dc0f
+[05:02:35] [Worker-Main-7/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:02:35] [Worker-Main-2/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:02:35] [Worker-Main-7/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:02:36] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:37] [Worker-Main-6/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:02:38] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:38] [Worker-Main-5/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:02:39] [Worker-Main-5/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:02:40] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:41] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:02:41] [Render thread/INFO]: Sound engine started
+[05:02:42] [Render thread/INFO]: [System] [CHAT] \n                            [ WOO JINCHUL ]\n\n                  ✔✔ Muốn Reset lại Điểm Thuộc Tính?\n                Bạn có thể mua trong /attr hoặc các\n                        Vật Phẩm Reset khác! ✔✔\n
+[05:02:42] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:02:42] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:42] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:02:42] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:02:44] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:46] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:48] [Render thread/INFO]: [System] [CHAT] [MINERUA] Phát hiện quyền Admin! Bạn cần nhập mật khẩu admin!
+[05:02:50] [Render thread/INFO]: [System] [CHAT] [MINERUA] Đúng mật khẩu. Chúc một ngày tốt lành ;)
+[05:02:50] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.wood.step
+[05:02:52] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.stone.step
+[05:03:42] [Render thread/INFO]: [System] [CHAT] \n                            [ WOO JINCHUL ]\n\n                  ✔✔ Muốn Reset lại Điểm Thuộc Tính?\n                Bạn có thể mua trong /attr hoặc các\n                        Vật Phẩm Reset khác! ✔✔\n
+[05:03:42] [Render thread/INFO]: [System] [CHAT] HỘI THỢ SĂN ❙ Hội đang nợ phí duy trì 9990. Còn 6 ngày trước khi bị xóa vĩnh viễn. Hãy đóng tiền bằng /guild donggop <số tiền> rồi dùng /guild trano.
+[05:04:42] [Render thread/INFO]: [System] [CHAT] \n                            [ SUNG JINWOO ]\n\n                            ✔✔ CHỢ ĐEN (/ah)\n          Bạn có thể đăng bán vật phẩm của mình tại đây\n                  Dùng /ah sell (giá) để đăng bán ✔✔\n
+[05:05:04] [Render thread/INFO]: [System] [CHAT] Đã tải lại cấu hình, sự kiện và GUI Shop!
+[05:05:42] [Render thread/INFO]: [System] [CHAT] \n                           [ THOMAS ANDRE ]\n\n       ✔✔ Xem tổng quan Chỉ Số Nhân Vật bằng lệnh /stats\n             Giúp xem Dame và tính toán chuẩn hơn ! ✔✔\n
+[05:06:42] [Render thread/INFO]: [System] [CHAT] \n                                 [ TUSK ]\n\n          ✔✔ Nếu bạn là người chơi Donate ủng hộ server\n           Đừng quên /moc để nhận Phần Quà Hấp Dẫn! ✔✔\n
+[05:07:42] [Render thread/INFO]: [System] [CHAT] \n                            [ SUNG JINWOO ]\n\n                            ✔✔ CHỢ ĐEN (/ah)\n          Bạn có thể đăng bán vật phẩm của mình tại đây\n                  Dùng /ah sell (giá) để đăng bán ✔✔\n
+[05:08:24] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 龘
+[05:08:34] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 龘
+[05:08:42] [Render thread/INFO]: [System] [CHAT] \n                               [ BELLION ]\n\n          ✔✔ Xem danh sách Shadow mới nhất trong Game\n             Dùng lệnh /shadow để tìm và xem nhé ! ✔✔\n
+[05:08:42] [Render thread/INFO]: [System] [CHAT] HỘI THỢ SĂN ❙ Hội đang nợ phí duy trì 9990. Còn 6 ngày trước khi bị xóa vĩnh viễn. Hãy đóng tiền bằng /guild donggop <số tiền> rồi dùng /guild trano.
+[05:09:42] [Render thread/INFO]: [System] [CHAT] \n                           [ THOMAS ANDRE ]\n\n       ✔✔ Xem tổng quan Chỉ Số Nhân Vật bằng lệnh /stats\n             Giúp xem Dame và tính toán chuẩn hơn ! ✔✔\n
+[05:10:42] [Render thread/INFO]: [System] [CHAT] \n                             [ GO GUNHEE ]\n\n          ✔✔ Nên xem qua các Chức Năng bằng lệnh /menu\n             Chỉ cần 1 lần để hiểu sơ bộ các Chức Năng\n                           Chính của Game! ✔✔\n
+[05:11:04] [Render thread/INFO]: [System] [CHAT] A total of 43 placeholder hook(s) are active: 
+[05:11:04] [Render thread/INFO]: [System] [CHAT] autofarm, axauctions, axtrade, changeoutput, checkitem, crazyenvoys, deluxemenus, essentials, excellentcrates, guild
+[05:11:04] [Render thread/INFO]: [System] [CHAT] hdb, infiniteannouncements, lagfixer, luckperms, math, mmoitems, mmopower, multiverse-core, mycommand, mythic
+[05:11:04] [Render thread/INFO]: [System] [CHAT] mythiclib, nexo, nf, parseother, player, playerpoints, playerpunish, rng, server, shadowhunter
+[05:11:04] [Render thread/INFO]: [System] [CHAT] slbooster, sldungeon, sololeveling, targettracker, turtlegiftcode, turtletags, turtletop, turtletutorial, ultimateautorestart, unt
+[05:11:04] [Render thread/INFO]: [System] [CHAT] vault, zkoth, zschedulers
+[05:11:11] [Download-5/INFO]: Returning cached file since actual hash matches requested
+[05:11:11] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000001/ced33dbe-3150-3cde-ade9-6485caf9dc0f
+[05:11:11] [Worker-Main-7/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:11:12] [Worker-Main-7/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:11:12] [Worker-Main-10/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:11:12] [Worker-Main-4/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:11:14] [Worker-Main-1/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:11:14] [Worker-Main-1/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:11:16] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:11:16] [Render thread/INFO]: Sound engine started
+[05:11:16] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:11:16] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:11:21] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 龘
+[05:11:42] [Render thread/INFO]: [System] [CHAT] \n                            [ SUNG JINWOO ]\n\n                            ✔✔ CHỢ ĐEN (/ah)\n          Bạn có thể đăng bán vật phẩm của mình tại đây\n                  Dùng /ah sell (giá) để đăng bán ✔✔\n
+[05:12:12] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 15 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:12:17] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 10 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:12:22] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 5 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:12:23] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 4 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:12:24] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 3 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:12:25] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 2 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:12:26] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 1 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:12:27] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Đã dọn dẹp thành công 0x items, 0x creatures và 0x projectiles!
+[05:12:42] [Render thread/INFO]: [System] [CHAT] \n                                 [ BERU ]\n\n                      ✔✔ Xem Hướng Dẫn cày đồ chi\n                           tiết bằng lệnh /help\n                Trước khi hỏi người khác, mọi Thông Tin\n                           đều có trong đó! ✔✔\n
+[05:12:45] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công dialogs
+[05:12:46] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công configs
+[05:12:46] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công items
+[05:12:46] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công recipes
+[05:12:46] [Render thread/INFO]: [System] [CHAT] Nexo | Resourcepack đã được tạo lại thành công
+[05:12:51] [Download-6/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\3e60c4f9-1b13-3a47-9d44-8ce63f0b944b\6a12555cd9c73f8dc15ebaf0353c66a9e28dfcc8 not found or had mismatched hash
+[05:12:55] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000002/3e60c4f9-1b13-3a47-9d44-8ce63f0b944b
+[05:12:55] [Worker-Main-4/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:12:56] [Worker-Main-4/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:12:56] [Worker-Main-1/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:12:56] [Worker-Main-11/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:12:57] [Worker-Main-7/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:12:57] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:12:59] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:12:59] [Render thread/INFO]: Sound engine started
+[05:12:59] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:13:00] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:13:42] [Render thread/INFO]: [System] [CHAT] \n                            [ WOO JINCHUL ]\n\n                  ✔✔ Muốn Reset lại Điểm Thuộc Tính?\n                Bạn có thể mua trong /attr hoặc các\n                        Vật Phẩm Reset khác! ✔✔\n
+[05:13:42] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Trò chơi đố vui bắt đầu! Câu hỏi: Điền vào chỗ trống: Có công mài sắt, có ngày nên ...
+[05:13:42] [Render thread/INFO]: [System] [CHAT] HỘI THỢ SĂN ❙ Hội đang nợ phí duy trì 9990. Còn 6 ngày trước khi bị xóa vĩnh viễn. Hãy đóng tiền bằng /guild donggop <số tiền> rồi dùng /guild trano.
+[05:14:03] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[05:14:03] [Worker-Main-5/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:14:03] [Worker-Main-5/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:14:06] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:14:06] [Render thread/INFO]: Sound engine started
+[05:14:06] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:14:06] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:14:09] [Render thread/INFO]: Connecting to 185.207.166.22, 25022
+[05:14:13] [Render thread/INFO]: Connecting to 185.207.166.22, 25022
+[05:14:19] [Render thread/INFO]: [System] [CHAT] 
+[05:14:19] [Render thread/INFO]: [System] [CHAT]                         ≫ TURTLE SERVER ≪
+[05:14:19] [Render thread/INFO]: [System] [CHAT]                          mc.minerua.com
+[05:14:19] [Render thread/INFO]: [System] [CHAT] 
+[05:14:19] [Render thread/INFO]: [System] [CHAT]   > Welcome nguyendannnn
+[05:14:19] [Render thread/INFO]: [System] [CHAT] 
+[05:14:19] [Render thread/INFO]: [System] [CHAT]   > Website www.minerua.com
+[05:14:19] [Render thread/INFO]: [System] [CHAT]   > Discord https://discord.com/invite/minerua
+[05:14:19] [Render thread/INFO]: [System] [CHAT] Welcome, nguyendannnn!
+[05:14:19] [Render thread/INFO]: [System] [CHAT] Type /help for a list of commands.
+[05:14:19] [Render thread/INFO]: [System] [CHAT] Type /list to see who else is online.
+[05:14:19] [Render thread/INFO]: [System] [CHAT] Players online: 1 - World time: 6:00 AM
+[05:14:19] [Render thread/INFO]: [System] [CHAT] Bạn không có thư mới.
+[05:14:19] [Render thread/INFO]: [System] [CHAT] (FAWE) A new release for FastAsyncWorldEdit is available: 2.15.4. You are currently on 2.15.2. Download from Modrinth or Hangar.
+[05:14:19] [Render thread/INFO]: [System] [CHAT] [TOP 1] 👑 Hoàng Đế Bóng Tối 👑 nguyendannnn đã giáng thế!
+[05:14:19] [Render thread/INFO]: Loaded 293 advancements
+[05:14:19] [Render thread/INFO]: [System] [CHAT] [ViaVersion] There is a newer plugin version available: 5.11.0, you're on: 5.10.0
+[05:14:19] [Render thread/INFO]: [System] [CHAT] [TurtleAC] nguyendannnn failed Flight [MOVEMENT] vl=1 (air=8 vDelta=0.000)
+[05:14:21] [Render thread/INFO]: [System] [CHAT] Trao Đổi »  Có phiên bản mới của plugin! (hiện tại: 1.25.3 | mới nhất: 1.27.1)
+[05:14:21] [Render thread/INFO]: [System] [CHAT] Chợ Đen »  Đã có phiên bản mới của AxAuctions! (hiện tại: 2.3.0 | mới nhất: 2.7.8)
+[05:14:21] [Render thread/INFO]: [System] [CHAT] Túi Đồ »  Đã có phiên bản mới của AxVaults! (hiện tại: 2.15.1 | mới nhất: 2.15.3)
+[05:14:24] [Download-6/INFO]: Returning cached file since actual hash matches requested
+[05:14:24] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000003/3e60c4f9-1b13-3a47-9d44-8ce63f0b944b
+[05:14:24] [Worker-Main-13/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:14:24] [Worker-Main-12/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:14:24] [Worker-Main-13/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:14:25] [Worker-Main-1/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:14:26] [Worker-Main-12/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:14:26] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:14:28] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:14:28] [Render thread/INFO]: Sound engine started
+[05:14:28] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:14:28] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:14:42] [Render thread/INFO]: [System] [CHAT] \n                                 [ IGRIS ]\n\n             ✔✔ Muốn tìm hiểu thành tựu, phần thưởng?\n              Hãy dùng lệnh /thanhtuu để xem chi tiết\n              Danh sách thành tựu và phần thưởng! ✔✔\n
+[05:14:44] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.stone.step
+[05:14:57] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 龘
+[05:15:03] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.wood.step
+[05:15:42] [Render thread/INFO]: [System] [CHAT] \n                               [ BELLION ]\n\n          ✔✔ Xem danh sách Shadow mới nhất trong Game\n             Dùng lệnh /shadow để tìm và xem nhé ! ✔✔\n
+[05:16:42] [Render thread/INFO]: [System] [CHAT] \n                           [ THOMAS ANDRE ]\n\n       ✔✔ Xem tổng quan Chỉ Số Nhân Vật bằng lệnh /stats\n             Giúp xem Dame và tính toán chuẩn hơn ! ✔✔\n
+[05:17:41] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công dialogs
+[05:17:41] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công configs
+[05:17:41] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công items
+[05:17:41] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công recipes
+[05:17:41] [Render thread/INFO]: [System] [CHAT] Nexo | Resourcepack đã được tạo lại thành công
+[05:17:42] [Render thread/INFO]: [System] [CHAT] \n                           [ THOMAS ANDRE ]\n\n       ✔✔ Xem tổng quan Chỉ Số Nhân Vật bằng lệnh /stats\n             Giúp xem Dame và tính toán chuẩn hơn ! ✔✔\n
+[05:17:47] [Download-9/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\80d80536-6041-3e09-ae3f-6d1b97b155bb\5541a525c1b9f92982401e66f1c8381eb67ed6e2 not found or had mismatched hash
+[05:17:52] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000004/80d80536-6041-3e09-ae3f-6d1b97b155bb
+[05:17:52] [Worker-Main-11/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:17:52] [Worker-Main-11/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:17:53] [Worker-Main-5/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:17:53] [Worker-Main-1/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:17:54] [Worker-Main-12/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:17:55] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:17:56] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:17:56] [Render thread/INFO]: Sound engine started
+[05:17:57] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:17:57] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:18:13] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 龘
+[05:18:15] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.stone.step
+[05:18:16] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.wood.step
+[05:18:38] [Render thread/INFO]: [System] [CHAT] %%nexo_glyph_lava_shop_gui%
+[05:18:42] [Render thread/INFO]: [System] [CHAT] \n                                 [ TUSK ]\n\n          ✔✔ Nếu bạn là người chơi Donate ủng hộ server\n           Đừng quên /moc để nhận Phần Quà Hấp Dẫn! ✔✔\n
+[05:18:42] [Render thread/INFO]: [System] [CHAT] HỘI THỢ SĂN ❙ Hội đang nợ phí duy trì 9990. Còn 6 ngày trước khi bị xóa vĩnh viễn. Hãy đóng tiền bằng /guild donggop <số tiền> rồi dùng /guild trano.
+[05:18:44] [Render thread/INFO]: [System] [CHAT] 
+[05:19:25] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công dialogs
+[05:19:25] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công configs
+[05:19:25] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công items
+[05:19:25] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công recipes
+[05:19:25] [Render thread/INFO]: [System] [CHAT] Nexo | Resourcepack đã được tạo lại thành công
+[05:19:30] [Download-11/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\b580fca0-e0d3-3a69-8da4-f0e6dbaf0693\94d81e7ccd31fe4c40ed6ad7d16a9ddd6ad7cd5a not found or had mismatched hash
+[05:19:34] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000005/b580fca0-e0d3-3a69-8da4-f0e6dbaf0693
+[05:19:34] [Worker-Main-12/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:19:34] [Worker-Main-15/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:19:34] [Worker-Main-12/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:19:35] [Worker-Main-1/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:19:36] [Worker-Main-12/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:19:36] [Worker-Main-12/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:19:38] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:19:38] [Render thread/INFO]: Sound engine started
+[05:19:38] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:19:38] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:19:43] [Render thread/INFO]: [System] [CHAT] \n                           [ THOMAS ANDRE ]\n\n       ✔✔ Xem tổng quan Chỉ Số Nhân Vật bằng lệnh /stats\n             Giúp xem Dame và tính toán chuẩn hơn ! ✔✔\n
+[05:19:53] [Render thread/INFO]: [System] [CHAT] 
+[05:19:53] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.stone.step
+[05:19:54] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.wood.step
+[05:19:59] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 龘
+[05:20:43] [Render thread/INFO]: [System] [CHAT] \n                            [ WOO JINCHUL ]\n\n                  ✔✔ Muốn Reset lại Điểm Thuộc Tính?\n                Bạn có thể mua trong /attr hoặc các\n                        Vật Phẩm Reset khác! ✔✔\n
+[05:20:46] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công dialogs
+[05:20:47] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công configs
+[05:20:47] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công items
+[05:20:47] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công recipes
+[05:20:47] [Render thread/INFO]: [System] [CHAT] Nexo | Resourcepack đã được tạo lại thành công
+[05:20:53] [Download-11/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\793b2ec5-16cc-3a4c-aeeb-ffeb3195f5af\121388479f41e9f1b318c2dc4383203e0bef0ff1 not found or had mismatched hash
+[05:20:57] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000006/793b2ec5-16cc-3a4c-aeeb-ffeb3195f5af
+[05:20:57] [Worker-Main-15/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:20:57] [Worker-Main-14/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:20:57] [Worker-Main-15/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:20:58] [Worker-Main-7/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:20:58] [Worker-Main-1/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:20:59] [Worker-Main-1/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:21:01] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:21:01] [Render thread/INFO]: Sound engine started
+[05:21:01] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:21:01] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:21:09] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 囗
+[05:21:10] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.stone.step
+[05:21:16] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 龘
+[05:21:17] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 囗
+[05:21:21] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.wood.step
+[05:21:43] [Render thread/INFO]: [System] [CHAT] \n                                 [ TUSK ]\n\n          ✔✔ Nếu bạn là người chơi Donate ủng hộ server\n           Đừng quên /moc để nhận Phần Quà Hấp Dẫn! ✔✔\n
+[05:22:43] [Render thread/INFO]: [System] [CHAT] \n                            [ WOO JINCHUL ]\n\n                  ✔✔ Muốn Reset lại Điểm Thuộc Tính?\n                Bạn có thể mua trong /attr hoặc các\n                        Vật Phẩm Reset khác! ✔✔\n
+[05:23:16] [Render thread/INFO]: [System] [CHAT] [Debug]: Reloaded resource packs
+[05:23:16] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000006/793b2ec5-16cc-3a4c-aeeb-ffeb3195f5af
+[05:23:16] [Worker-Main-16/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:23:16] [Worker-Main-16/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:23:17] [Worker-Main-1/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:23:17] [Worker-Main-11/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:23:18] [Worker-Main-7/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:23:18] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:23:20] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:23:20] [Render thread/INFO]: Sound engine started
+[05:23:20] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:23:20] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:23:20] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:23:20] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:23:20] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:23:21] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:23:21] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:23:21] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:23:21] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:23:21] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:23:21] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:23:21] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:23:21] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:23:21] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:23:23] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.stone.step
+[05:23:25] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 囗
+[05:23:43] [Render thread/INFO]: [System] [CHAT] \n                                 [ TUSK ]\n\n          ✔✔ Nếu bạn là người chơi Donate ủng hộ server\n           Đừng quên /moc để nhận Phần Quà Hấp Dẫn! ✔✔\n
+[05:23:43] [Render thread/INFO]: [System] [CHAT] HỘI THỢ SĂN ❙ Hội đang nợ phí duy trì 9990. Còn 6 ngày trước khi bị xóa vĩnh viễn. Hãy đóng tiền bằng /guild donggop <số tiền> rồi dùng /guild trano.
+[05:24:05] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 15 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:24:10] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 10 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:24:15] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 5 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:24:16] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 4 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:24:17] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 3 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:24:18] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 2 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:24:19] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Cảnh báo! Trong 1 giây nữa, server sẽ bị dọn dẹp các entities và items!
+[05:24:20] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Đã dọn dẹp thành công 0x items, 0x creatures và 0x projectiles!
+[05:24:43] [Render thread/INFO]: [System] [CHAT] \n                                 [ TUSK ]\n\n          ✔✔ Nếu bạn là người chơi Donate ủng hộ server\n           Đừng quên /moc để nhận Phần Quà Hấp Dẫn! ✔✔\n
+[05:25:24] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công dialogs
+[05:25:25] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công configs
+[05:25:25] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công items
+[05:25:25] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công recipes
+[05:25:25] [Render thread/INFO]: [System] [CHAT] Nexo | Resourcepack đã được tạo lại thành công
+[05:25:31] [Download-12/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\90ca17df-0a20-3103-a7bf-c6715666a92f\439ce90fc89947a2b807ca3420b6eed14f4e8db6 not found or had mismatched hash
+[05:25:35] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000007/90ca17df-0a20-3103-a7bf-c6715666a92f
+[05:25:35] [Worker-Main-18/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:25:35] [Worker-Main-18/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:25:35] [Worker-Main-15/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:25:36] [Worker-Main-12/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:25:36] [Worker-Main-18/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:25:37] [Worker-Main-18/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:25:39] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:25:39] [Render thread/INFO]: Sound engine started
+[05:25:39] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:25:39] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:25:43] [Render thread/INFO]: [System] [CHAT] \n                           [ BAEK YOONHO ]\n\n              ✔✔ Mở Kho Đồ Cá Nhân bằng lệnh /pv (số)\n          Cần thêm kho? Dùng /rank để kiếm thêm pv ! ✔✔\n
+[05:25:44] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 囗
+[05:25:44] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.stone.step
+[05:26:43] [Render thread/INFO]: [System] [CHAT] \n                               [ BELLION ]\n\n          ✔✔ Xem danh sách Shadow mới nhất trong Game\n             Dùng lệnh /shadow để tìm và xem nhé ! ✔✔\n
+[05:27:43] [Render thread/INFO]: [System] [CHAT] \n                           [ CHOI JONG-IN ]\n\n           ✔✔ Mỗi lần Lên Cấp bạn nhận 3 Điểm Thuộc Tính\n           Dùng lệnh /attr để cộng chỉ số theo Lối Chơi\n           Ví dụ: Máu Khủng, Dame Kĩ Năng, Dame Khỏe! ✔✔\n
+[05:28:23] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công dialogs
+[05:28:24] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công configs
+[05:28:24] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công items
+[05:28:24] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công recipes
+[05:28:24] [Render thread/INFO]: [System] [CHAT] Nexo | Resourcepack đã được tạo lại thành công
+[05:28:30] [Download-14/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\47ca2613-c99a-3e7e-822d-f2a641c4f731\5b19cd803f71424c1bb74845fef41b2ad790e703 not found or had mismatched hash
+[05:28:33] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000008/47ca2613-c99a-3e7e-822d-f2a641c4f731
+[05:28:33] [Worker-Main-1/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:28:34] [Worker-Main-17/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:28:34] [Worker-Main-1/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:28:34] [Worker-Main-20/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:28:35] [Worker-Main-7/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:28:36] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:28:38] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:28:38] [Render thread/INFO]: Sound engine started
+[05:28:38] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:28:38] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:28:44] [Render thread/INFO]: [System] [CHAT] \n                            [ WOO JINCHUL ]\n\n                  ✔✔ Muốn Reset lại Điểm Thuộc Tính?\n                Bạn có thể mua trong /attr hoặc các\n                        Vật Phẩm Reset khác! ✔✔\n
+[05:28:44] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Trò chơi đố vui bắt đầu! Câu hỏi: Cái gì người mua biết, người bán biết, người xài không bao giờ biết?
+[05:28:44] [Render thread/INFO]: [System] [CHAT] HỘI THỢ SĂN ❙ Hội đang nợ phí duy trì 9990. Còn 6 ngày trước khi bị xóa vĩnh viễn. Hãy đóng tiền bằng /guild donggop <số tiền> rồi dùng /guild trano.
+[05:28:45] [Render thread/INFO]: [Not Secure] [CHAT] VIP0 nguyendannnn [lv.36] [Chưa thức tỉnh] [] [🗝 Kẻ Dọn Hầm Ngục 🗝]» 囗
+[05:28:46] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.stone.step
+[05:28:47] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:block.wood.step
+[05:29:06] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công dialogs
+[05:29:06] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công configs
+[05:29:06] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công items
+[05:29:06] [Render thread/INFO]: [System] [CHAT] Nexo | Đã reload thành công recipes
+[05:29:06] [Render thread/INFO]: [System] [CHAT] Nexo | Resourcepack đã được tạo lại thành công
+[05:29:12] [Download-14/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\86a27d78-af5c-3edb-baaf-a32c94cf3fca\f3cf656540772fd65957ba4ba82ad8e709936018 not found or had mismatched hash
+[05:29:15] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Đã hết giờ! Không ai trả lời đúng. Đáp án là: Quan tài
+[05:29:15] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000009/86a27d78-af5c-3edb-baaf-a32c94cf3fca
+[05:29:15] [Worker-Main-15/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:29:15] [Worker-Main-20/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:29:15] [Worker-Main-15/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:29:16] [Worker-Main-12/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:29:17] [Worker-Main-7/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:29:17] [Worker-Main-7/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:29:19] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:29:19] [Render thread/INFO]: Sound engine started
+[05:29:19] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:29:20] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:29:45] [Render thread/INFO]: [System] [CHAT] \n                               [ BELLION ]\n\n          ✔✔ Xem danh sách Shadow mới nhất trong Game\n             Dùng lệnh /shadow để tìm và xem nhé ! ✔✔\n
+[05:30:45] [Render thread/INFO]: [System] [CHAT] \n                            [ SUNG JINWOO ]\n\n                            ✔✔ CHỢ ĐEN (/ah)\n          Bạn có thể đăng bán vật phẩm của mình tại đây\n                  Dùng /ah sell (giá) để đăng bán ✔✔\n
+[05:31:44] [Render thread/INFO]: [System] [CHAT] \n                           [ THOMAS ANDRE ]\n\n       ✔✔ Xem tổng quan Chỉ Số Nhân Vật bằng lệnh /stats\n             Giúp xem Dame và tính toán chuẩn hơn ! ✔✔\n
+[05:32:06] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[05:32:06] [Worker-Main-20/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:32:06] [Worker-Main-20/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:32:09] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:32:09] [Render thread/INFO]: Sound engine started
+[05:32:09] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:32:09] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:41:17] [Render thread/INFO]: Connecting to 185.207.166.22, 25022
+[05:41:23] [Render thread/INFO]: [System] [CHAT] 
+[05:41:23] [Render thread/INFO]: [System] [CHAT]                         ≫ TURTLE SERVER ≪
+[05:41:23] [Render thread/INFO]: [System] [CHAT]                          mc.minerua.com
+[05:41:23] [Render thread/INFO]: [System] [CHAT] 
+[05:41:23] [Render thread/INFO]: [System] [CHAT]   > Welcome nguyendannnn
+[05:41:23] [Render thread/INFO]: [System] [CHAT] 
+[05:41:23] [Render thread/INFO]: [System] [CHAT]   > Website www.minerua.com
+[05:41:23] [Render thread/INFO]: [System] [CHAT]   > Discord https://discord.com/invite/minerua
+[05:41:23] [Render thread/INFO]: [System] [CHAT] Welcome, nguyendannnn!
+[05:41:23] [Render thread/INFO]: [System] [CHAT] Type /help for a list of commands.
+[05:41:23] [Render thread/INFO]: [System] [CHAT] Type /list to see who else is online.
+[05:41:23] [Render thread/INFO]: [System] [CHAT] Players online: 1 - World time: 6:00 AM
+[05:41:23] [Render thread/INFO]: [System] [CHAT] Bạn không có thư mới.
+[05:41:23] [Render thread/INFO]: [System] [CHAT] (FAWE) A new release for FastAsyncWorldEdit is available: 2.15.4. You are currently on 2.15.2. Download from Modrinth or Hangar.
+[05:41:23] [Render thread/INFO]: [System] [CHAT] [TOP 1] 👑 Hoàng Đế Bóng Tối 👑 nguyendannnn đã giáng thế!
+[05:41:23] [Render thread/INFO]: Loaded 293 advancements
+[05:41:23] [Render thread/INFO]: [System] [CHAT] [ViaVersion] There is a newer plugin version available: 5.11.0, you're on: 5.10.0
+[05:41:25] [Render thread/INFO]: [System] [CHAT] Trao Đổi »  Có phiên bản mới của plugin! (hiện tại: 1.25.3 | mới nhất: 1.27.1)
+[05:41:25] [Render thread/INFO]: [System] [CHAT] Chợ Đen »  Đã có phiên bản mới của AxAuctions! (hiện tại: 2.3.0 | mới nhất: 2.7.8)
+[05:41:25] [Render thread/INFO]: [System] [CHAT] Túi Đồ »  Đã có phiên bản mới của AxVaults! (hiện tại: 2.15.1 | mới nhất: 2.15.3)
+[05:41:28] [Download-18/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\e43422c7-11a5-3e03-999f-a2c1d340b539\0558bb0bfd0ba01992b544834b47ab825c64e7a4 not found or had mismatched hash
+[05:41:32] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/0000000A/e43422c7-11a5-3e03-999f-a2c1d340b539
+[05:41:32] [Worker-Main-29/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:41:32] [Worker-Main-25/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:41:32] [Worker-Main-27/WARN]: Failed to load builder (minecraft:default: builder #0 from pack server/0000000A/e43422c7-11a5-3e03-999f-a2c1d340b539), rejecting
+java.io.FileNotFoundException: minecraft:textures/icon/lava_gui.gif.png
+	at aus.b(SourceFile:23) ~[minecraft-1.21.4-client.jar:?]
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at aus.getResourceOrThrow(SourceFile:23) ~[minecraft-1.21.4-client.jar:?]
+	at aus.open(SourceFile:27) ~[minecraft-1.21.4-client.jar:?]
+	at frv$a.a(SourceFile:131) ~[minecraft-1.21.4-client.jar:?]
+	at frk.a(SourceFile:207) ~[minecraft-1.21.4-client.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1310) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[05:41:32] [Worker-Main-29/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:41:33] [Worker-Main-25/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:41:34] [Worker-Main-26/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:41:34] [Worker-Main-26/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:41:36] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:41:36] [Render thread/INFO]: Sound engine started
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character K (\u004b)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character h (\u0068)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character u (\u0075)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character   (\u0020)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character V (\u0056)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ự (\u1ef1)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character c (\u0063)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character T (\u0054)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character o (\u006f)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character p (\u0070)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character G (\u0047)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character A (\u0041)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character E (\u0045)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character R (\u0052)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character N (\u004e)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Y (\u0059)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ê (\u00ea)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ầ (\u1ea7)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character : (\u003a)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ✪ (\u272a)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ợ (\u1ee3)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character S (\u0053)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ă (\u0103)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character n (\u006e)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character H (\u0048)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ạ (\u1ea1)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character g (\u0067)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character P (\u0050)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character | (\u007c)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character O (\u004f)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ₪ (\u20aa)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ☀ (\u2600)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character L (\u004c)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character I (\u0049)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴍ (\u1d0d)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴄ (\u1d04)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character . (\u002e)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ɪ (\u026a)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ɴ (\u0274)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴇ (\u1d07)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ʀ (\u0280)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴜ (\u1d1c)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴀ (\u1d00)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴏ (\u1d0f)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character i (\u0069)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ế (\u1ebf)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character t (\u0074)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ụ (\u1ee5)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character đ (\u0111)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character r (\u0072)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ư (\u01b0)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ờ (\u1edd)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character í (\u00ed)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character , (\u002c)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ổ (\u1ed5)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ừ (\u1eeb)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character á (\u00e1)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character s (\u0073)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character a (\u0061)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ả (\u1ea3)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ẽ (\u1ebd)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ơ (\u01a1)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ứ (\u1ee9)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character k (\u006b)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character - (\u002d)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character > (\u003e)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Q (\u0051)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character y (\u0079)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Đ (\u0110)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ồ (\u1ed3)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character [ (\u005b)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ⚔ (\u2694)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ] (\u005d)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ự (\u1ef0)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character C (\u0043)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ế (\u1ebe)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ( (\u0028)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character / (\u002f)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character l (\u006c)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ) (\u0029)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character # (\u0023)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 1 (\u0031)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character e (\u0065)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character d (\u0064)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 5 (\u0035)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 9 (\u0039)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 0 (\u0030)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 3 (\u0033)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 2 (\u0032)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character b (\u0062)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 4 (\u0034)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 6 (\u0036)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character D (\u0044)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 7 (\u0037)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ố (\u1ed1)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 8 (\u0038)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ✔ (\u2714)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character X (\u0058)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ủ (\u1ee7)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character B (\u0042)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character w (\u0077)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character m (\u006d)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ở (\u1edf)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ọ (\u1ecd)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ệ (\u1ec7)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ử (\u1eed)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ộ (\u1ed9)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character x (\u0078)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character à (\u00e0)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ó (\u00f3)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ʜ (\u029c)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴅ (\u1d05)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴡ (\u1d21)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character M (\u004d)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ỏ (\u1ecf)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴋ (\u1d0b)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ɢ (\u0262)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴛ (\u1d1b)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴠ (\u1d20)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ô (\u00f4)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ù (\u00f9)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 👑 (\u1f451)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character â (\u00e2)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ❤ (\u2764)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ▸ (\u25b8)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ì (\u00ec)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ể (\u1ec3)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ớ (\u1edb)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ò (\u00f2)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ✦ (\u2726)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ⊰ (\u22b0)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ꕥ (\ua565)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ⊱ (\u22b1)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Á (\u00c1)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character U (\u0055)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character œ (\u0153)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ¿ (\u00bf)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ã (\u00c3)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ’ (\u2019)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character » (\u00bb)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ‚ (\u201a)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character º (\u00ba)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ¢ (\u00a2)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ｓ (\uff33)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ｈ (\uff28)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ａ (\uff21)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ｄ (\uff24)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ｏ (\uff2f)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ｗ (\uff37)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ｕ (\uff35)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ｎ (\uff2e)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ｔ (\uff34)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ｅ (\uff25)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character Ｒ (\uff32)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 👤 (\u1f464)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 💰 (\u1f4b0)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ề (\u1ec1)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 💎 (\u1f48e)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ʟ (\u029f)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ↳ (\u21b3)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 🛡 (\u1f6e1)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ỉ (\u1ec9)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ⭐ (\u2b50)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 🔥 (\u1f525)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ᴘ (\u1d18)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character 🥷 (\u1f977)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ấ (\u1ea5)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ú (\u00fa)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ã (\u00e3)
+[05:41:36] [Render thread/WARN]: Couldn't find glyph for character ! (\u0021)
+[05:41:36] [Render thread/INFO]: Caught error loading resourcepacks, removing all selected resourcepacks
+java.util.concurrent.CompletionException: java.lang.IllegalStateException: Default font failed to load
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at auv.a(SourceFile:68) ~[minecraft-1.21.4-client.jar:?]
+	at bra.d(SourceFile:164) ~[minecraft-1.21.4-client.jar:?]
+	at bre.d(SourceFile:23) ~[minecraft-1.21.4-client.jar:?]
+	at bra.B(SourceFile:138) ~[minecraft-1.21.4-client.jar:?]
+	at bra.bA(SourceFile:123) ~[minecraft-1.21.4-client.jar:?]
+	at flk.c(SourceFile:1296) [minecraft-1.21.4-client.jar:?]
+	at flk.f(SourceFile:922) [minecraft-1.21.4-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:267) [minecraft-1.21.4-client.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:115) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+Caused by: java.lang.IllegalStateException: Default font failed to load
+	at frk.a(SourceFile:287) ~[minecraft-1.21.4-client.jar:?]
+	at frk.a(SourceFile:161) ~[minecraft-1.21.4-client.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	... 12 more
+[05:41:36] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[05:41:36] [Worker-Main-23/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:41:36] [Worker-Main-28/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:41:38] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:41:38] [Render thread/INFO]: Sound engine started
+[05:41:38] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:41:38] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:41:46] [Render thread/INFO]: [System] [CHAT] \n                                 [ IGRIS ]\n\n             ✔✔ Muốn tìm hiểu thành tựu, phần thưởng?\n              Hãy dùng lệnh /thanhtuu để xem chi tiết\n              Danh sách thành tựu và phần thưởng! ✔✔\n
+[05:42:02] [Download-18/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\f625a461-84d0-3fac-8e89-df5eb0cf9a4f\cacc78175218609b1187cfd61147c78e13000d31 not found or had mismatched hash
+[05:42:06] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/0000000B/f625a461-84d0-3fac-8e89-df5eb0cf9a4f
+[05:42:06] [Worker-Main-27/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:42:06] [Worker-Main-29/WARN]: Failed to load builder (minecraft:default: builder #0 from pack server/0000000B/f625a461-84d0-3fac-8e89-df5eb0cf9a4f), rejecting
+java.io.FileNotFoundException: minecraft:textures/icon/lava_gui.gif.png
+	at aus.b(SourceFile:23) ~[minecraft-1.21.4-client.jar:?]
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at aus.getResourceOrThrow(SourceFile:23) ~[minecraft-1.21.4-client.jar:?]
+	at aus.open(SourceFile:27) ~[minecraft-1.21.4-client.jar:?]
+	at frv$a.a(SourceFile:131) ~[minecraft-1.21.4-client.jar:?]
+	at frk.a(SourceFile:207) ~[minecraft-1.21.4-client.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1310) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[05:42:06] [Worker-Main-26/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:42:07] [Worker-Main-27/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:42:07] [Worker-Main-29/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:42:08] [Worker-Main-24/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:42:08] [Worker-Main-24/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:42:10] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:42:10] [Render thread/INFO]: Sound engine started
+[05:42:10] [Render thread/INFO]: Caught error loading resourcepacks, removing all selected resourcepacks
+java.util.concurrent.CompletionException: java.lang.IllegalStateException: Default font failed to load
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at auv.a(SourceFile:68) ~[minecraft-1.21.4-client.jar:?]
+	at bra.d(SourceFile:164) ~[minecraft-1.21.4-client.jar:?]
+	at bre.d(SourceFile:23) ~[minecraft-1.21.4-client.jar:?]
+	at bra.B(SourceFile:138) ~[minecraft-1.21.4-client.jar:?]
+	at bra.bA(SourceFile:123) ~[minecraft-1.21.4-client.jar:?]
+	at flk.c(SourceFile:1296) [minecraft-1.21.4-client.jar:?]
+	at flk.f(SourceFile:922) [minecraft-1.21.4-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:267) [minecraft-1.21.4-client.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:115) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+Caused by: java.lang.IllegalStateException: Default font failed to load
+	at frk.a(SourceFile:287) ~[minecraft-1.21.4-client.jar:?]
+	at frk.a(SourceFile:161) ~[minecraft-1.21.4-client.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	... 12 more
+[05:42:10] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[05:42:10] [Worker-Main-23/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:42:10] [Worker-Main-23/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:42:13] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:42:13] [Render thread/INFO]: Sound engine started
+[05:42:13] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:42:13] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:42:46] [Render thread/INFO]: [System] [CHAT] \n                                 [ TUSK ]\n\n          ✔✔ Nếu bạn là người chơi Donate ủng hộ server\n           Đừng quên /moc để nhận Phần Quà Hấp Dẫn! ✔✔\n
+[05:43:46] [Render thread/INFO]: [System] [CHAT] \n                               [ BELLION ]\n\n          ✔✔ Xem danh sách Shadow mới nhất trong Game\n             Dùng lệnh /shadow để tìm và xem nhé ! ✔✔\n
+[05:43:46] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Trò chơi giải toán bắt đầu! Nhanh tay giải phép tính: 949 * 384 = ?
+[05:43:46] [Render thread/INFO]: [System] [CHAT] HỘI THỢ SĂN ❙ Hội đang nợ phí duy trì 9990. Còn 6 ngày trước khi bị xóa vĩnh viễn. Hãy đóng tiền bằng /guild donggop <số tiền> rồi dùng /guild trano.
+[05:44:16] [Render thread/INFO]: [System] [CHAT] [Hệ Thống] Đã hết giờ! Không ai trả lời đúng. Đáp án là: 364416
+[05:44:46] [Render thread/INFO]: [System] [CHAT] \n                                 [ IGRIS ]\n\n             ✔✔ Muốn tìm hiểu thành tựu, phần thưởng?\n              Hãy dùng lệnh /thanhtuu để xem chi tiết\n              Danh sách thành tựu và phần thưởng! ✔✔\n
+[05:45:46] [Render thread/INFO]: [System] [CHAT] \n                                 [ BERU ]\n\n                      ✔✔ Xem Hướng Dẫn cày đồ chi\n                           tiết bằng lệnh /help\n                Trước khi hỏi người khác, mọi Thông Tin\n                           đều có trong đó! ✔✔\n
+[05:46:24] [Render thread/INFO]: [System] [CHAT] Bạn hiện đang treo máy.
+[05:46:46] [Render thread/INFO]: [System] [CHAT] \n                           [ CHOI JONG-IN ]\n\n           ✔✔ Mỗi lần Lên Cấp bạn nhận 3 Điểm Thuộc Tính\n           Dùng lệnh /attr để cộng chỉ số theo Lối Chơi\n           Ví dụ: Máu Khủng, Dame Kĩ Năng, Dame Khỏe! ✔✔\n
+[05:47:46] [Render thread/INFO]: [System] [CHAT] \n                            [ SUNG JINWOO ]\n\n                            ✔✔ CHỢ ĐEN (/ah)\n          Bạn có thể đăng bán vật phẩm của mình tại đây\n                  Dùng /ah sell (giá) để đăng bán ✔✔\n
+[05:48:08] [Download-19/WARN]: Existing file C:\Users\Administrator.DESKTOP-98TGIBL\AppData\Roaming\ElyPrismLauncher\instances\1.21.4\minecraft\downloads\a05712fb-2785-3368-b45f-c51aabce0377\fe2b5b7310f174d3e356ca4c37c9fe4f0299b113 not found or had mismatched hash
+[05:48:11] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/0000000C/a05712fb-2785-3368-b45f-c51aabce0377
+[05:48:11] [Worker-Main-31/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:48:11] [Worker-Main-32/WARN]: Failed to load builder (minecraft:default: builder #0 from pack server/0000000C/a05712fb-2785-3368-b45f-c51aabce0377), rejecting
+java.io.FileNotFoundException: minecraft:textures/icon/lava_gui.gif.png
+	at aus.b(SourceFile:23) ~[minecraft-1.21.4-client.jar:?]
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at aus.getResourceOrThrow(SourceFile:23) ~[minecraft-1.21.4-client.jar:?]
+	at aus.open(SourceFile:27) ~[minecraft-1.21.4-client.jar:?]
+	at frv$a.a(SourceFile:131) ~[minecraft-1.21.4-client.jar:?]
+	at frk.a(SourceFile:207) ~[minecraft-1.21.4-client.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1310) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+[05:48:12] [Worker-Main-31/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:48:12] [Worker-Main-29/WARN]: File littleroom_hydra:sounds/flamethrower_loop2.ogg does not exist, cannot add it to event littleroom_hydra:hydra.flamethrower_loop
+[05:48:13] [Worker-Main-32/WARN]: Missing sprite: cetus:textures/cetus_textures/fx_cetus_greatsword_e.png
+[05:48:13] [Worker-Main-23/WARN]: Missing block model: 'minecraft:builtin/entity'
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:nexo_tools/forest_shovel#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:coffee_table#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:connectable/connectable_straight#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:arm_chair#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:forest_shield#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:sofa#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:connectable/connectable_inner#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:spider_bow#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model minecraft:chainmail_helmet#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model minecraft:paper#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:forest_trident#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model minecraft:iron_sword#inventory:
+    #missing
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model minecraft:netherite_hoe#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model minecraft:netherite_sword#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:connectable/connectable_outer#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:heavy_bow#inventory:
+    #missing
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:nexo_tools/forest_pickaxe#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:double_bed#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:connectable/connectable_left#inventory:
+    particle
+[05:48:13] [Worker-Main-23/WARN]: Missing texture references in model nexo:connectable/connectable_right#inventory:
+    particle
+[05:48:15] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:48:15] [Render thread/INFO]: Sound engine started
+[05:48:15] [Render thread/INFO]: Caught error loading resourcepacks, removing all selected resourcepacks
+java.util.concurrent.CompletionException: java.lang.IllegalStateException: Default font failed to load
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at auv.a(SourceFile:68) ~[minecraft-1.21.4-client.jar:?]
+	at bra.d(SourceFile:164) ~[minecraft-1.21.4-client.jar:?]
+	at bre.d(SourceFile:23) ~[minecraft-1.21.4-client.jar:?]
+	at bra.B(SourceFile:138) ~[minecraft-1.21.4-client.jar:?]
+	at bra.bA(SourceFile:123) ~[minecraft-1.21.4-client.jar:?]
+	at flk.c(SourceFile:1296) [minecraft-1.21.4-client.jar:?]
+	at flk.f(SourceFile:922) [minecraft-1.21.4-client.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:267) [minecraft-1.21.4-client.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:115) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+Caused by: java.lang.IllegalStateException: Default font failed to load
+	at frk.a(SourceFile:287) ~[minecraft-1.21.4-client.jar:?]
+	at frk.a(SourceFile:161) ~[minecraft-1.21.4-client.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	... 12 more
+[05:48:15] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[05:48:15] [Worker-Main-30/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[05:48:16] [Worker-Main-30/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[05:48:18] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Conexant ISST Audio)
+[05:48:18] [Render thread/INFO]: Sound engine started
+[05:48:18] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[05:48:18] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[05:48:47] [Render thread/INFO]: [System] [CHAT] \n                           [ CHOI JONG-IN ]\n\n           ✔✔ Mỗi lần Lên Cấp bạn nhận 3 Điểm Thuộc Tính\n           Dùng lệnh /attr để cộng chỉ số theo Lối Chơi\n           Ví dụ: Máu Khủng, Dame Kĩ Năng, Dame Khỏe! ✔✔\n
+[05:48:47] [Render thread/INFO]: [System] [CHAT] HỘI THỢ SĂN ❙ Hội đang nợ phí duy trì 9990. Còn 6 ngày trước khi bị xóa vĩnh viễn. Hãy đóng tiền bằng /guild donggop <số tiền> rồi dùng /guild trano.
+[05:49:47] [Render thread/INFO]: [System] [CHAT] \n                            [ WOO JINCHUL ]\n\n                  ✔✔ Muốn Reset lại Điểm Thuộc Tính?\n                Bạn có thể mua trong /attr hoặc các\n                        Vật Phẩm Reset khác! ✔✔\n
+[05:50:31] [Render thread/INFO]: Stopping!
